@@ -1,0 +1,70 @@
+.row div {padding: 20px 10px; border: 1px solid}
+body {background-color: #2b2b2b;}
+#nav-header a{
+    color: white;
+}
+#nav-header .active{
+    color: black;
+}
+.container{
+    color: white;
+}
+
+#HomePageImage{
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+}
+
+hr{
+     background-color: white;
+}
+
+.jumbotron{
+    background-color: #2b2b2b;
+    
+}
+
+#gigBuddy-Card h1{
+    background-color: teal;
+    
+}
+
+#lav-card h1{
+    background-color: #2b2b2b;
+}
+
+#web-card h1{
+    background-color: red;
+}
+
+
+#gigBuddy-Card p{
+    color: black;
+    padding: 2%;
+}
+#lav-Card p{
+    color: black;
+    padding: 2%;
+}
+#web-Card p{
+    color: black;
+    padding: 2%;
+}
+.card-header{
+    padding: 2%;
+}
+
+.justify-content-center .dropdown-menu {
+    left: 50%;
+    transform: translateX(-50%);
+ }
+.dropdown-item{
+    background-color: #2b2b2b;
+}
+
+.btext{
+    color: black;
+}
+
+
