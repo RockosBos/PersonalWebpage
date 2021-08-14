@@ -1,5 +1,5 @@
 .row div {padding: 20px 10px; border: 1px solid}
-body {background-color: #2b2b2b;}
+body {background-color: #2b2b2b; font-family:Verdana, Geneva, Tahoma, sans-serif;}
 #nav-header a{
     color: white;
 }
@@ -53,6 +53,9 @@ hr{
 }
 .card-header{
     padding: 2%;
+}
+#gigBuddy-Card h3{
+    padding-left: 2%;
 }
 
 .justify-content-center .dropdown-menu {
